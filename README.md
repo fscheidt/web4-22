@@ -30,7 +30,7 @@ curl
 
 Exemplo:
 
-GET https://cotacao.com/dolar/real
+GET https://example.com/dolar/real
 
 Resposta:
 5.41
