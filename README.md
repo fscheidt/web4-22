@@ -1,10 +1,12 @@
 # Desenvolvimento Web IV
 
+- Semestre: 2022/2
+- [Moodle](https://ava.ifpr.edu.br/course/view.php?id=9383)
 
 ## Ferramentas
 Usadas na disciplina:
 
-```
+```bash
 # testar no terminal:
 python3 >= 3.10
 pip -V >= 20
@@ -13,8 +15,6 @@ pip -V >= 20
 http
 curl
 ```
-- postman (grafico) 
-
 ### IDE
 - visual code
 - spring tools
