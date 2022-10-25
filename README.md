@@ -3,7 +3,10 @@
 - Semestre: 2022/2
 - [Moodle](https://ava.ifpr.edu.br/course/view.php?id=9383)
 
-## [Projeto pycine](http://github.com/fscheidt/pycine)
+## [projeto pycine (fastapi)](http://github.com/fscheidt/pycine)
+
+## projeto svelte
+- [npm create svelte project](https://github.com/fscheidt/dev/blob/master/contents/svelte.md)
 
 ## [Códigos](codigos/)
 
