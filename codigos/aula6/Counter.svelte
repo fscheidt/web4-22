@@ -20,11 +20,22 @@ list movies
 {#await promise}
     <p>...waiting</p>
 {:then movies}
+<div class="table">
     {#each movies as m }
         <p>{m.id}</p>
         <p>{m.title}</p>
         <p>{m.genre}</p>
     {/each}
+</div>
 {:catch error}
     <p style="color: red">{error.message}</p>
 {/await}
+
+<style>
+.table{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+</style>
