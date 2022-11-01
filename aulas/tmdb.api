@@ -27,6 +27,20 @@ https://api.themoviedb.org/3/discover/movie?api_key=KEY&sort_by=vote_average.des
 https://api.themoviedb.org/3/discover/movie/?certification_country=US&certification=R&sort_by=vote_average.desc&api_key=KEY
 
 
+## Filmes mais populares:
+
+https://api.themoviedb.org/3/discover/movie/?api_key=kkkkkkk&certification_country=US&certification=R&sort_by=vote_count.desc
+
+## Descobrir filmes mais populares por genero (drama)?
+
+https://api.themoviedb.org/3/discover/movie/?api_key=kkkkkk&certification_country=US&certification=R&sort_by=vote_count.desc&with_genres=18
+
+## Obter filme
+
+https://api.themoviedb.org/3/movie/293660?api_key=kkkkk&language=en-US
+
+
+
 ## Atividades
 1. Obter informações de um artista (person)
 - testar: Arnold Schwarzenegger
