@@ -19,3 +19,4 @@
     - [rest](aulas/2.2-rest.pdf)
     - [flask](aulas/2.3-flask.md)
     - [python](aulas/2.4-python-request.md)
+- [aula 3 (tmdb)](aulas/tmdb.api)

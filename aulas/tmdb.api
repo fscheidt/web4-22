@@ -1,0 +1,34 @@
+# TMDB API
+
+- Objetivo: integrar o fastapi com a api do TMDB
+
+## What are the most popular movies?
+
+/discover/movie?sort_by=popularity.desc
+
+## 1. Criar uma conta:
+https://www.themoviedb.org/signup
+
+
+## 2. Exemplos da api:
+
+https://developers.themoviedb.org/3/getting-started/introduction
+
+- Discover (opção)
+
+## Testar api
+
+https://api.themoviedb.org/3/discover/movie?api_key=KEY&sort_by=popularity.desc
+
+
+https://api.themoviedb.org/3/discover/movie?api_key=KEY&sort_by=vote_average.desc
+
+
+https://api.themoviedb.org/3/discover/movie/?certification_country=US&certification=R&sort_by=vote_average.desc&api_key=KEY
+
+
+## Atividades
+1. Obter informações de um artista (person)
+- testar: Arnold Schwarzenegger
+
+2 . Obter elenco do filme "Deadpool" (artistas associados ao filme).
